@@ -11,13 +11,13 @@ CalculadoraIMC/
 │       └── calculadora/
 │           └── imc/
 │               ├── main/
-│               │   └── Main.java              # Punto de entrada de la aplicación
+│               │   └── Main.java              
 │               ├── model/
-│               │   └── CalculadoraIMC.java    # Lógica de negocio y fórmulas
+│               │   └── CalculadoraIMC.java    
 │               ├── view/
-│               │   └── VentanaIMC.java        # Interfaz gráfica (Swing Form / JFrame)
+│               │   └── VentanaIMC.java        
 │               └── controller/
-│                   └── IMCController.java     # Manejador de eventos e integración
+│                   └── IMCController.java     
 └── README.md
 ```
 
