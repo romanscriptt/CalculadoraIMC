@@ -21,7 +21,7 @@ CalculadoraIMC/
 └── README.md
 ```
 
-PARTE 3 (Copia y pega esto al final)
+
 ## Justificación del Diseño y Arquitectura
 
 1. CalculadoraIMC.java (Modelo):
